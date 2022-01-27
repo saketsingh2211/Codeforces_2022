@@ -1,0 +1,1 @@
+{"name":"Local: roma_lucky_number","url":"c:\\Users\\sk singh\\c tutorial\\roma_lucky_number.cpp","tests":[{"id":1642398131051,"input":"3 4\n1 2 4\n","output":"3\n"},{"id":1642398153020,"input":"3 2\n447 44 77","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sk singh\\c tutorial\\roma_lucky_number.cpp","group":"local","local":true}
